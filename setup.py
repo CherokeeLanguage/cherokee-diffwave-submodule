@@ -55,7 +55,7 @@ setup(name = 'diffwave',
         'numpy',
         'torch>=1.6',
         #'torchaudio>=0.7.0',
-        'torchaudio==0.7.0',
+        'torchaudio==0.8.2',
         'tqdm'
     ],
     classifiers = CLASSIFIERS)
